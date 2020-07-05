@@ -1,3 +1,2 @@
-# Feature-Detection-using-CPSFS-
-Feature Detection Algorithm of Focused Plenoptic camera
+# Feature-Detection-using-CPSFS
 The detailed codes will be released upon the acceptance of our paper.
