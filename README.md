@@ -14,7 +14,7 @@ Download the dataset and put it anywhere you want.
 # Demo 
 Change the dataset path in \Demo\DemoDetect.m(Line 2).
 
-`MainPath         = 'C:\Users\sam\Desktop'; `
+`MainPath         = 'The path where you put the dataset'; `
 
 Run \Demo\DemoDetect.m.
 
