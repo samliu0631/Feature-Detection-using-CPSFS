@@ -20,6 +20,7 @@ Run \Demo\DemoDetect.m.
 
 ## Citing
 If you find our codes useful, please cite our paper.
+```
 @article{liu2020feature,
   title={Feature Detection of Focused Plenoptic Camera Based on Central Projection Stereo Focal Stack},
   author={Liu, Qingsong and Xie, Xiaofang and Zhang, Xuanzhe and Tian, Yu and Wang, Yan and Xu, Xiaojun},
@@ -30,3 +31,4 @@ If you find our codes useful, please cite our paper.
   year={2020},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
+```
