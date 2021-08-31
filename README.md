@@ -18,4 +18,15 @@ Change the dataset path in \Demo\DemoDetect.m(Line 2).
 
 Run \Demo\DemoDetect.m.
 
-
+## Citing
+If you find our codes useful, please cite our paper.
+@article{liu2020feature,
+  title={Feature Detection of Focused Plenoptic Camera Based on Central Projection Stereo Focal Stack},
+  author={Liu, Qingsong and Xie, Xiaofang and Zhang, Xuanzhe and Tian, Yu and Wang, Yan and Xu, Xiaojun},
+  journal={Applied Sciences},
+  volume={10},
+  number={21},
+  pages={7632},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
